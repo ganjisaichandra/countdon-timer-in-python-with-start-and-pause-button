@@ -1,4 +1,4 @@
-# countdon-timer-in-python-with-start-and-pause-button
+# countdown-timer-in-python-with-start-and-pause-button
 # Import the time module
 import time
 from tkinter import *
